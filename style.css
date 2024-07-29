@@ -1,6 +1,8 @@
 .container{
     height: 100vh;
     width: 100%;
+    color: white
+    text-align: center;
     background: linear-gradient(43deg, #4158D0 0%, #C850C0 30%, #FFCC70 66%, #ffffff 100%);
     background-size: 300% 300%;
     animation: background 12s ease-in-out infinite;
