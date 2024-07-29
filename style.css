@@ -9,6 +9,7 @@ body{
     color: white;
     font-size: 24px;
     margin: 0px;
+    display: grid;
     font-family: "Kalnia", serif;
     background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70, #ffffff);
     background-size: 250% 250%;
