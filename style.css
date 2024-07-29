@@ -9,8 +9,7 @@ body{
     border-radius: 27px;
     color: white;
     font-size: 25px;
-    margin: 0px;
-    padding-left: 12px;
+    padding: 12px;
     border-right: #ecdbd8 5px solid;
     background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70, #ffffff);
     background-size: 250% 250%;
