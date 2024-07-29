@@ -31,6 +31,5 @@ body{
 .imagem-logo{
     width: 45px;
     height: 30px;
-    align-items: end;
     display: grid;
 }
