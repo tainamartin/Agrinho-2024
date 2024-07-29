@@ -8,7 +8,7 @@ body{
     width: 100%;
     border-radius: 27px;
     color: white;
-    font-align: center;
+    text-align: left; 
     font-size: 25px;
     background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70, #ffffff);
     background-size: 250% 250%;
