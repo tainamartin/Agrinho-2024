@@ -6,8 +6,6 @@ body{
 .container{
     height: 25vh;
     width: 100%;
-    border-bottom-left-radius: 24px ;
-    border-bottom-right-radius: 24px;
     color: white;
     text-align: center; 
     font-size: 27px;
