@@ -1,5 +1,5 @@
 body{
-    margin-bottom: 0px;
+    margin: 0px;
 
 }
 
@@ -10,6 +10,7 @@ body{
     color: white;
     text-align: center; 
     font-size: 27px;
+    margin-top: 0px;
     font-family: "Kalnia", serif;
     background: linear-gradient(43deg, #4158D0, #C850C0, #FFCC70, #ffffff);
     background-size: 250% 250%;
