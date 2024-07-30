@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-    height: 23vh;
+    height: 50vh;
     width: 100%;
     color: white;
     font-size: 24px;
@@ -30,6 +30,7 @@ body{
 }
 
 #menu-horizontal ul{
+    height: 25px;
     list-style: none;
     padding: 0px;
     background-color: transparent;
