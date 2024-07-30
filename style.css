@@ -1,6 +1,5 @@
 body{
     margin: 0 auto;
-    padding: 0;
     box-sizing: border-box;
 
 }
@@ -30,23 +29,23 @@ body{
     padding-left: 29px ;
 }
 
-#menu-horizontal{
+#menu-horizontal ul{
     list-style: none;
     padding: 0px;
     background-color: transparent;
 }
 
-#menu-horizontal li{
+#menu-horizontal ul li{
     display: inline;
 }
 
-#menu-horizontal li a{
-    text-decoration: none;
-    padding: 10px;
+#menu-horizontal ul li a{
+    padding: 25px;
     display: inline-block;
-    transition: background 1.3s linear 0.3ms;
+    text-decoration: none;
+    transition: background 0.20s linear 0.5ms;
 }
 
-#menu-horizontal li a:hover{
-    background-color: #f5bf82 ;
+#menu-horizontal ul li a:hover{
+    background-color: bisque;
 }
