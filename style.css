@@ -30,6 +30,7 @@ body{
 }
 
 #menu-horizontal ul{
+    margin-top: 0px;
     height: 12px;
     color: white;
     align-items: center;
