@@ -26,13 +26,14 @@ body{
 
 .titulo{
     margin-top: 0px ;
+    padding-top: 15px;
     padding-left: 5px ;
 }
 
 #menu-horizontal ul{
     margin-top: 0px;
     height: 12px;
-    font-size: 12px;
+    font-size: 15px;
     color: white;
     align-items: center;
     list-style: none;
@@ -50,9 +51,9 @@ body{
     padding: 25px;
     display: inline-block;
     text-decoration: none;
-    transition: background 0.20s linear 0.5ms;
+    transition: background 0.2s linear;
 }
 
 #menu-horizontal ul li a:hover{
-    background-color: bisque;
+    background-color: rgba(255, 228, 196, 0.527);
 }
